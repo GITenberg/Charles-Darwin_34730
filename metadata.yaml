@@ -1,0 +1,31 @@
+_repo: Charles-Darwin_34730
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, Grant
+    alias: Allen, Charles Grant Blairfindie
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '1452'
+    url: http://www.gutenberg.org/2009/agents/1452
+    wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
+description: Published in 1885, this biography of the founder of modern evolution
+  was part of the English Worthies" series edited by Andrew Lang. Allen presents Darwin
+  in context, showing the world to which he was born, his place as intellectual heir
+  to Lamarck and Malthus, and an assessment of his place in history.
+gutenberg_issued: '2010-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Darwin, Charles, 1809-1882'
+title: Charles Darwin
+url: http://www.gutenberg.org/ebooks/34730
